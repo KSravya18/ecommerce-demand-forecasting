@@ -1,0 +1,7 @@
+model,Normal Jan-May 2026,Peak 2024,Peak 2025
+LightGBM (calendar features),5308.0,10234.0,11904.0
+Noise floor (oracle),4784.0,9467.0,10741.0
+Regime mean (peak/normal),4741.0,10396.0,10861.0
+Regression (peak+trend+weekday),4848.0,10550.0,10901.0
+"SARIMAX(1,0,1) + peak flag",4741.0,10388.0,10874.0
+Seasonal naive,6684.0,16914.0,15848.0
